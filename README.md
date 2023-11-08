@@ -3,6 +3,7 @@ Repositório da disciplina de Sistemas-Distribuidos com o professor : Guilherme 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Java" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Roger-Python" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   
 </div>
 
